@@ -1,0 +1,4 @@
+﻿  mian.cpp
+c:\users\schrodinger\documents\leetcode\48\48\mian.cpp(61): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  48.vcxproj -> C:\Users\Schrodinger\Documents\leetcode\48\Debug\48.exe
+  48.vcxproj -> C:\Users\Schrodinger\Documents\leetcode\48\Debug\48.pdb (Full PDB)
